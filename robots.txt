@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-silent-pulse.com/tecno-serprofes/sitemap.xml
